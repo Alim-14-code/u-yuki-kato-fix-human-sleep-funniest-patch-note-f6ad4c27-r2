@@ -1,0 +1,1 @@
+Fixed a bug where the brain queued 'one more episode' until 4AM — autoplay now stops at bedtime, and the story finally ends.
